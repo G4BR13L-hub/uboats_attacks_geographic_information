@@ -50,10 +50,12 @@ El código está refactorizado en módulos puros para garantizar su mantenibilid
 **Datos (.csv)**
 * `uboat-data.csv`: Astilleros de origen y clasificaciones técnica de cada u-boat, con su nomenclatura y tipo entre otros datos.
 * `uboat-target-data.csv`: Registros de hundimientos con fechas, coordenadas, toneladas, bajas, etc.
+[https://github.com/kadenhendron/uboat-data/tree/master/data](url)
 
 **Modelos y Texturas**
 * `dia.jpg`: Mapa cilíndrico de la Tierra (Color map).
 * `stars.jpg`: Fondo estelar para el skydome.
+ [https://www.solarsystemscope.com/textures/](url)
 * `spark1.png`: Textura alpha para los puntos de ataque en el renderizador de partículas.
 * `uboat-VIIC.glb`: Modelo 3D optimizado que navega por el globo.
   `Submarine by Poly by Google [CC-BY] (https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/dfSQmeuuYt3)`
